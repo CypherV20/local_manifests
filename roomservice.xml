@@ -12,7 +12,6 @@
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="los" revision="cm-14.1" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="los" revision="cm-14.1" />
   <!-- Misc -->
-  <remove-project name="LineageOS/android_external_connectivity" />
   <project name="LineageOS/android_external_connectivity" path="external/connectivity" remote="los" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="los" revision="cm-14.1" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="los" revision="cm-14.1" />
